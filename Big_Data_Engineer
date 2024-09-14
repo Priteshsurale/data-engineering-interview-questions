@@ -1,0 +1,51 @@
+I am hiring you as a 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 if you can answer these 30 questions:
+
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗦𝗽𝗮𝗿𝗸
+- What is the difference between transformations and actions in Spark, and can you provide an example?
+- How can data partitioning be optimized for performance in Spark?
+- What is the difference between cache() and persist() in Spark, and when would you use each?
+
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗞𝗮𝗳𝗸𝗮 
+- How does Kafka partitioning enable scalability and load balancing?
+- How does Kafka’s replication mechanism provide durability and fault tolerance?
+- How would you manage Kafka consumer rebalancing to minimize data loss?
+
+𝗔𝗽𝗮𝗰𝗵𝗲 𝗔𝗶𝗿𝗳𝗹𝗼𝘄 
+- What are dynamic DAGs in Airflow, and what benefits do they offer?
+- What are Airflow pools, and how do they help control task concurrency?
+- How do you implement time-based and event-based triggers for DAGs in Airflow?
+
+𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗶𝗻𝗴
+- How would you design a data warehouse schema for an e-commerce platform?
+- What is the difference between OLAP and OLTP, and how do they complement each other?
+- What are materialized views, and how do they improve query performance?
+
+𝗖𝗜/𝗖𝗗
+- How do you integrate automated testing into a CI/CD pipeline for ETL jobs?
+- How do you manage environment-specific configurations in a CI/CD pipeline?
+- How is version control managed for database schemas and ETL scripts in a CI/CD pipeline?
+
+𝗦𝗤𝗟 
+- How do you write a query to fetch the top 5 highest salaries in each department?
+- What’s the difference between the HAVING and WHERE clauses in SQL?
+- How do you handle NULL values in SQL, and how do they affect aggregate functions?
+
+𝗣𝘆𝘁𝗵𝗼𝗻 
+- How do you handle large datasets in Python, and which libraries would you use for performance?
+- What are context managers in Python, and how do they help with resource management?
+- How do you manage and log errors in Python-based ETL pipelines?
+
+𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀 
+- How would you optimize a Databricks job using Spark SQL on large datasets?
+- What is Delta Lake in Databricks, and how does it ensure data consistency?
+- How do you manage and secure access to Databricks clusters for multiple users?
+
+𝗔𝘇𝘂𝗿𝗲 𝗗𝗮𝘁𝗮 𝗙𝗮𝗰𝘁𝗼𝗿𝘆
+- What are linked services in Azure Data Factory, and how do they facilitate data integration?
+- How do you use mapping data flows in Azure Data Factory to transform and filter data?
+- How do you monitor and troubleshoot failures in Azure Data Factory pipelines?
+
+
+Shubham Wadekar - https://www.linkedin.com/in/shubhamwadekar/
+𝗚𝗲𝘁 𝘁𝗵𝗲 𝗙𝘂𝗹𝗹 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗽𝗿𝗲𝗽 𝗸𝗶𝘁 𝗳𝗼𝗿 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝗵𝗲𝗿𝗲 -
+https://lnkd.in/gNH-trFm
